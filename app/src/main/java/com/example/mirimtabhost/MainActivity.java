@@ -1,7 +1,5 @@
 package com.example.mirimtabhost;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.app.TabActivity;
 import android.os.Bundle;
 import android.widget.TabHost;
