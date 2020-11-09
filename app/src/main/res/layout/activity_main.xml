@@ -48,6 +48,7 @@
             <LinearLayout
                 android:id="@+id/linear_horse"
                 android:background="#9F81A5"
+                android:gravity="center"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
                 <ImageView
